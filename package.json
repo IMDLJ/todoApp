@@ -1,0 +1,26 @@
+{
+  "name": "wechat",
+  "version": "1.0.0",
+  "description": "// 使用http-server起本地服务器:\r # 安装\r cnpm install -g http-server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IMDLJ/wechatNumber.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "silence",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IMDLJ/wechatNumber/issues"
+  },
+  "homepage": "https://github.com/IMDLJ/wechatNumber#readme",
+  "dependencies": {
+    "koa": "^2.2.0",
+    "sha1": "^1.1.1"
+  }
+}
